@@ -1,5 +1,5 @@
-# author: <name here>
-# date: <date here>
+# author: <Brianna Blue>
+# date: <7/2/21>
 #
 # description: <fill in>
 
@@ -32,8 +32,25 @@ example_verse = (
 )
 
 # WRITE CODE BELOW
-
-
+first_verse = (
+   'Understand, once he was a family man\n' +
+   'So surely I would never, ever go through it firsthand\n' +
+   'Emulate all the shit my mother hates\n' +
+   'I can\'t help but demonstrate my Freudian fate\n' +
+   'My alibi for taking your guy\n' +
+   'History repeats itself, it fails to die\n' +
+   'And my animal aggresion is my downfall\n' +
+   'I don\'t care about what you got, I want it all\n' 
+)
+main_chorus = (
+   'It\'s bricked up in my head, it\'s shoved under my bed\n' +
+   'And I question myself again,What is it bout men\n' +
+   'My destructive side has grown a mile wide\n' +
+   'And I question myself again, what is it bout men\n' +
+   'What is it bout men\n'
+)
+second_verse = (
+    'I\'m nurturing, I just wanna do my thing'
 # 3.2
 # Print
 #   1) Print the variables out so that they form the song in correct order when outputted to the terminal.

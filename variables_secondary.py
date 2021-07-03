@@ -1,7 +1,7 @@
-# author: <name here>
-# date: <date here>
+# author: <Brianna Blue>
+# date: <7/2/21e>
 #
-# description: <fill in>
+# description: <variables>
 
 
 # Variables can be used in the same expression to assign to the variable thanks to its unique properties.
@@ -45,4 +45,16 @@
 #       - Addition with itself and an equation
 #           - Example Equation: ((10 - 2) * (4 + 3) - 1) * 15
 #
-
+print()
+x = 500
+x2 = x + 100
+x3 = x - 35
+x4 = x * 12
+x5 = x // 6
+x6 = x + ((13 + 4) * (5 - 3) + 50)
+print(x)
+print(x2)
+print(x3)
+print(x4)
+print(x5)
+print(x6)

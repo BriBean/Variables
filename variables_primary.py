@@ -1,7 +1,7 @@
-# author: <name here>
-# date: <date here>
+# author: <Brianna Blue>
+# date: <7/2/21>
 #
-# description: <fill in>
+# description: <variables>
 
 # --------------- Section 1 --------------- #
 
@@ -15,18 +15,20 @@
 #   1) Create a variable that holds your name.
 #   2) Create a variable that holds your birthday.
 #   3) Create a variable that holds the name of an animal you like.
-#
 # Print
 #   4) Print each variable, describing it when you print it.
-#
 # Example Code
 example_name = 'elia'
-print('EXAMPLE: my name is', example_name)
+print('EXAMPLE: my name is' , example_name)
 
 # WRITE CODE BELOW
-
-
-
+first_name = 'Brianna'
+b = 'October 26th'
+a = 'cats'
+print()
+print('my name is', first_name)
+print('my birthday is', b)
+print('one of my favorite animals are', a)
 # 1.2 | Variable Creation | Integers / Floats
 #
 # Relevant Documentation
@@ -45,9 +47,13 @@ print('EXAMPLE: my name is', example_name)
 #   5) Print each variable, describing the value you print.
 
 # WRITE CODE BELOW
-
-
-
+print()
+x = 111
+y = 26
+z = 5.8
+print('my favorite number is', x)
+print('the day of my birthday is', y)
+print(z)
 # 1.3 | Overwriting Variables
 #
 # Relevant Documentation
@@ -67,9 +73,13 @@ example_name = 'lucia'
 print('EXAMPLE: my new name is', example_name)
 
 # WRITE CODE BELOW
-
-
-
+print()
+first_name = 'Mya'
+b = 1
+u = 23
+print('my new name is', first_name)
+print(b)
+print(u)
 # 1.4 | Operations
 #
 # Relevant Documentation
@@ -95,3 +105,16 @@ example_sum = 11 + 21
 print('EXAMPLE: the sum of 11 and 21 is', example_sum)
 
 # WRITE CODE BELOW
+print()
+first_sum = 29 + 20
+first_product = 8 * 5 * 3
+x = 'Brianna' + 'cat'
+y = 'lmao' * 26
+z = z - 23
+c = 26 ** 2
+print(' the sum of 29 and 20 is', first_sum)
+print('the product of 8, 5 and 3 is', first_product)
+print(x)
+print(y)
+print(z)
+print(c)
